@@ -1,0 +1,15 @@
+C:\Users\Bryon\source\repos\Beuler\Beuler\bin\Debug\Beuler.exe.config
+C:\Users\Bryon\source\repos\Beuler\Beuler\bin\Debug\Beuler.exe
+C:\Users\Bryon\source\repos\Beuler\Beuler\bin\Debug\Beuler.pdb
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.csprojAssemblyReference.cache
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\MainWindow.g.cs
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\App.g.cs
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler_MarkupCompile.cache
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler_MarkupCompile.lref
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\MainWindow.baml
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.g.resources
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.Properties.Resources.resources
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.csproj.GenerateResource.cache
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.csproj.CoreCompileInputs.cache
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.exe
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.pdb
