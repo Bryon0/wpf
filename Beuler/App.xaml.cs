@@ -13,5 +13,14 @@ namespace Beuler
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            Register app = new Register();
+            UserViewModel context = new UserViewModel();
+            app.DataContext = context;
+            app.Show();
+        }
     }
 }

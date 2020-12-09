@@ -13,3 +13,5 @@ C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.csproj.GenerateResour
 C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.csproj.CoreCompileInputs.cache
 C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.exe
 C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Beuler.pdb
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Register.g.cs
+C:\Users\Bryon\source\repos\Beuler\Beuler\obj\Debug\Register.baml

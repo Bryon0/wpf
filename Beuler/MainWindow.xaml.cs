@@ -24,11 +24,5 @@ namespace Beuler
         {
             InitializeComponent();
         }
-
-        private void buttonLogIn_Click(Object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show(textBoxEmail.Text);
-           
-        }
     }
 }
